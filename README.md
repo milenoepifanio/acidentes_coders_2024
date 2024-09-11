@@ -9,7 +9,7 @@ Bem-vindo ao repositório do projeto de análise de acidentes para o Coders 2024
 ## Estrutura do Repositório
 
 - `arquivos de análise/`
-  - `projeto_script.ipynb`: Código de análise dos dados.
+  - `projeto.ipynb`: Código de análise dos dados.
   - `Storytelling.ipynb`: Apresentação e visualização dos resultados.
 
 ## Requisitos
